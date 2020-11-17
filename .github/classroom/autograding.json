@@ -1,0 +1,94 @@
+{
+  "tests": [
+    {
+      "name": "part1case1",
+      "setup": "",
+      "run": "python part1.py",
+      "input": "3\r\n5\r\n7\r\n9\r\n11",
+      "output": "35",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "part1case2",
+      "setup": "",
+      "run": "python part1.py",
+      "input": "2\r\n5\r\n0\r\n-1\r\n-6",
+      "output": "0",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "part2case2",
+      "setup": "",
+      "run": "python part2.py",
+      "input": "10",
+      "output": "Enter a number: \r\nTen times your number is 100\r\nNinety-nine more than your number is 109",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "part3case1",
+      "setup": "",
+      "run": "python part3.py",
+      "input": "3\r\n7",
+      "output": "10\r\n49",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "part3case2",
+      "setup": "",
+      "run": "python part3.py",
+      "input": "1\r\n10",
+      "output": "11\r\n70",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "part4case1even",
+      "setup": "",
+      "run": "python part4.py",
+      "input": "5\r\n10",
+      "output": "25",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "part4case2odd",
+      "setup": "",
+      "run": "python part4.py",
+      "input": "3\r\n5",
+      "output": "7.5",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "part5case1",
+      "setup": "",
+      "run": "python part5.py",
+      "input": "Yugi\r\nMoto",
+      "output": "Hello, Yugi Moto",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "part5case2",
+      "setup": "",
+      "run": "python part5.py",
+      "input": "Calvin\r\nFischoeder",
+      "output": "Hello, Calvin Fischoeder",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
