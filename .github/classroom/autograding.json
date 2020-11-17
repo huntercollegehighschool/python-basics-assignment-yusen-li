@@ -25,8 +25,8 @@
       "setup": "",
       "run": "python part2.py",
       "input": "10",
-      "output": "Enter a number: \r\nTen times your number is 100\r\nNinety-nine more than your number is 109",
-      "comparison": "exact",
+      "output": "100\r\n109",
+      "comparison": "included",
       "timeout": 10,
       "points": null
     },
@@ -74,7 +74,7 @@
       "name": "part5case1",
       "setup": "",
       "run": "python part5.py",
-      "input": "\"Yugi\"\r\n\"Moto\"",
+      "input": "('Hello,', 'Yugi Moto')",
       "output": "Hello, Yugi Moto",
       "comparison": "included",
       "timeout": 10,
@@ -85,7 +85,7 @@
       "setup": "",
       "run": "python part5.py",
       "input": "\"Calvin\"\r\n\"Fischoeder\"",
-      "output": "Hello, Calvin Fischoeder",
+      "output": "('Hello,', 'Calvin Fischoeder')",
       "comparison": "included",
       "timeout": 10,
       "points": null
