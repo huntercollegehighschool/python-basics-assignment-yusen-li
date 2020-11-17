@@ -74,8 +74,8 @@
       "name": "part5case1",
       "setup": "",
       "run": "python part5.py",
-      "input": "('Hello,', 'Yugi Moto')",
-      "output": "Hello, Yugi Moto",
+      "input": "\"Yugi\"\r\n\"Moto\"",
+      "output": "('Hello,', 'Yugi', 'Moto')",
       "comparison": "included",
       "timeout": 10,
       "points": null
