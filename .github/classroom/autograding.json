@@ -25,7 +25,7 @@
       "setup": "",
       "run": "python part2.py",
       "input": "10",
-      "output": "(100, 109)",
+      "output": "100, 109",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -35,7 +35,7 @@
       "setup": "",
       "run": "python part3.py",
       "input": "3\r\n7",
-      "output": "(10, 49)",
+      "output": "10, 49",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -45,7 +45,7 @@
       "setup": "",
       "run": "python part3.py",
       "input": "1\r\n10",
-      "output": "11\r\n70",
+      "output": "11, 70",
       "comparison": "included",
       "timeout": 10,
       "points": null
