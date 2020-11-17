@@ -25,7 +25,7 @@
       "setup": "",
       "run": "python part2.py",
       "input": "10",
-      "output": "100, 109",
+      "output": "('Ten times your number is', 100)\r\n('Ninety-nine more than your number is', 109)\r\n",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -35,7 +35,7 @@
       "setup": "",
       "run": "python part3.py",
       "input": "3\r\n7",
-      "output": "10, 49",
+      "output": "('The sum of your numbers is', 10)\r\n('Seven times your second number is', 49)",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -45,7 +45,7 @@
       "setup": "",
       "run": "python part3.py",
       "input": "1\r\n10",
-      "output": "11, 70",
+      "output": "('The sum of your numbers is', 11)\r\n('Seven times your second number is', 70)",
       "comparison": "included",
       "timeout": 10,
       "points": null
